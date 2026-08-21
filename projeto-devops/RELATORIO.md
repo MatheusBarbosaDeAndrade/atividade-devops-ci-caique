@@ -29,7 +29,7 @@ Toda vez que uma branch main é atualizda com o comando git push, a automação 
 
 Desenvolveram-se três testes unitários para validar a assertividade de cada uma das funções (test_soma, test_subtracao e test_multiplicacao).
 
-![ETAPA A](./img/ETAPA A.png)
+![ETAPA A](./img/ETAPA_A.png)
 
 ## 7. Falha proposital
 
